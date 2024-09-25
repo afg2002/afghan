@@ -149,6 +149,7 @@
       "startDate": "2020-09-01",
       "endDate": "2024-08-31",
       "gpa": "3.62",
+      "url" : "https://unindra.ac.id/",
       "courses": [
         "Teknik Informatika"
       ],
@@ -158,6 +159,7 @@
       "institution": "SMK Negeri 1 Cibinong",
       "area": "Rekayasa Perangkat Lunak",
       "studyType": "SMK",
+      "url" : "https://profile.smkn1cibinong.sch.id/",
       "startDate": "2017-07-01",
       "endDate": "2020-06-30",
       "gpa": "84/100",
@@ -368,7 +370,8 @@
         "Full-stack Developer"
       ],
       "entity": "",
-      "type": "application"
+      "type": "application",
+      "isActive": false
     },
     {
       "name": "Web Zero Waste Massive",
@@ -391,7 +394,8 @@
         "Full-stack Developer"
       ],
       "entity": "",
-      "type": "application"
+      "type": "application",
+      "isActive": false
     },
     {
       "name": "Sistem Pendukung Keputusan Kayawan Terbaik Menggunakan Metode SAW",
@@ -414,7 +418,8 @@
         "Java Developer"
       ],
       "entity": "",
-      "type": "application"
+      "type": "application",
+      "isActive": false
     }
   ]
 }
