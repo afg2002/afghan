@@ -1,0 +1,420 @@
+{
+  "basics": {
+    "name": "Afghan Eka Pangestu",
+    "label": "Web Developer",
+    "image": "avatar.jpg",
+    "email": "afghanekapangestu@gmail.com",
+    "phone": "085156283645",
+    "theme": "blue",
+    "url": "https://www.linkedin.com/in/afghan-eka-pangestu/",
+    "summary": "A fresh graduate in Informatics Engineering from Indraprasta University, with experience in the Certified Independent Study and Internship Program (MSIB) Batch 6. Skilled in using Vue.js 2, MongoDB, and Vuetify, with experience in working on web and API projects for academic and freelance purposes. Currently seeking new challenges to continue growing, expanding networks, and gaining experience.",
+    "location": {
+      "address": "a",
+      "postalCode": "",
+      "city": "Bojonggede",
+      "countryCode": "ID",
+      "region": "Bogor"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "afghan-eka-pangestu",
+        "url": "https://www.linkedin.com/in/afghan-eka-pangestu/"
+      },
+      {
+        "network": "GitHub",
+        "username": "afg2002",
+        "url": "https://github.com/afg2002/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "PT BTPN Syariah Tbk",
+      "position": "Web Developer",
+      "location_type": "Internship",
+      "location": "Kuningan, Jakarta Selatan",
+      "url": "https://www.btpnsyariah.com/",
+      "startDate": "2024-02-01",
+      "endDate": "2024-06-30",
+      "summary": "Developed a router application for creating dashboard lists and log monitoring using Springboot Framework and Vue JS 2. Assisted the product owner in organizing documents about user feedback surveys.",
+      "highlights": [
+        "Developed router application using Springboot Framework and Vue JS 2",
+        "Created dashboard lists and log monitoring features",
+        "Assisted in organizing user feedback survey documents"
+      ],
+      "responsibilities": [
+        "Developed router application for dashboard lists and log monitoring",
+        "Used Springboot Framework and Vue JS 2 for development",
+        "Assisted product owner with document organization"
+      ],
+      "achievements": [
+        "Successfully implemented router application with dashboard and monitoring features"
+      ],
+      "skills": [
+        "Springboot",
+        "Vue.js 2",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "PT Ciptanusa Nuansa Mulia",
+      "position": "Web Developer",
+      "location_type": "Freelance",
+      "location": "Permata Hijau, Jakarta Selatan",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-31",
+      "summary": "Developed a project management application using Laravel to calculate projects, RAB, manage vendors, and various other aspects, improving efficiency and accuracy in project management.",
+      "highlights": [
+        "Developed project management application using Laravel",
+        "Implemented features for project calculation, RAB, and vendor management"
+      ],
+      "responsibilities": [
+        "Developed project management application",
+        "Implemented various project management features",
+        "Improved efficiency and accuracy in project management"
+      ],
+      "achievements": [
+        "Successfully delivered a comprehensive project management solution"
+      ],
+      "skills": [
+        "Laravel",
+        "Project Management",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "PT Bintang Bahagia Selalu - Royal Star",
+      "position": "Web Developer",
+      "location_type": "Freelance",
+      "location": "Penjaringan, Jakarta Utara",
+      "url": "https://www.royalstar.id",
+      "startDate": "2022-09-01",
+      "endDate": "2022-10-31",
+      "summary": "Assisted in improving the user interface on the front page with enhancements to the slider, video, navigation menu, and WhatsApp button. Improved overall user experience and visual appearance.",
+      "highlights": [
+        "Improved front page user interface",
+        "Enhanced slider, video, navigation menu, and WhatsApp button"
+      ],
+      "responsibilities": [
+        "Improved user interface elements",
+        "Enhanced overall user experience",
+        "Optimized visual appearance of the website"
+      ],
+      "achievements": [
+        "Successfully improved website's front-end elements and user experience"
+      ],
+      "skills": [
+        "UI/UX",
+        "Front-end Development",
+        "Web Design"
+      ]
+    },
+    {
+      "name": "CV Mitrasoft Global",
+      "position": "Web Developer",
+      "location_type": "Internship",
+      "location": "Bojonggede, Bogor",
+      "url": "https://mitrasoft.com",
+      "startDate": "2019-01-01",
+      "endDate": "2019-03-31",
+      "summary": "Developed and migrated customer back office desktop applications to web platforms using Java Spring. Improved operational efficiency with new features and a more responsive interface.",
+      "highlights": [
+        "Migrated desktop applications to web platforms",
+        "Used Java Spring for development",
+        "Improved operational efficiency with new features"
+      ],
+      "responsibilities": [
+        "Developed and migrated applications",
+        "Implemented new features",
+        "Improved interface responsiveness"
+      ],
+      "achievements": [
+        "Successfully migrated desktop applications to web platforms"
+      ],
+      "skills": [
+        "Java Spring",
+        "Web Development",
+        "Application Migration"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universitas Indraprasta PGRI",
+      "area": "Teknik Informatika",
+      "studyType": "Sarjana",
+      "startDate": "2020-09-01",
+      "endDate": "2024-08-31",
+      "gpa": "3.62",
+      "courses": [
+        "Teknik Informatika"
+      ],
+      "description": "Recommended as a Laboratory Assistant responsible for supporting practicals, and ability to work with teachers and students. Participated in the Certified Independent Study and Internship Program Batch 6. Contributed to and published a project work college journal on 'Decision Support System for Gastric Disease Diagnosis using Forward Chaining Method'."
+    },
+    {
+      "institution": "SMK Negeri 1 Cibinong",
+      "area": "Rekayasa Perangkat Lunak",
+      "studyType": "SMK",
+      "startDate": "2017-07-01",
+      "endDate": "2020-06-30",
+      "gpa": "84/100",
+      "courses": [
+        "Rekayasa Perangkat Lunak"
+      ],
+      "description": "Obtained Professional Certification Institute (LSP) Certificate, Software Development, and completed 23 competency units."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Kampus Merdeka MSIB Batch 6",
+      "issuer": "PT BTPN Syariah Tbk, Pelaksana Pusat Kampus Merdeka",
+      "date": "2024-01-01",
+      "url": "https://drive.google.com/file/d/1sipQm4jlySmaEvIsv4j0iIXJEvFLJaY0/view?usp=sharing",
+      "description": "Completed the Certified Independent Study and Internship Program (MSIB) Batch 6"
+    },
+    {
+      "name": "Pemrograman Go-Lang : Pemula sampai Mahir",
+      "issuer": "Udemy",
+      "date": "2022-01-01",
+      "url": "https://www.udemy.com/certificate/UC-f75676c7-1387-41ff-9d62-61ae930707bb/",
+      "description": "Completed course on Go-Lang programming from beginner to expert level"
+    },
+    {
+      "name": "Theoritical Understanding of PHP",
+      "issuer": "Sololearn",
+      "date": "2018-01-01",
+      "url": "https://api2.sololearn.com/v2/certificates/CT-SZG5GMAK/image/png",
+      "description": "Demonstrated theoretical understanding of PHP"
+    },
+    {
+      "name": "Theoritical Understanding of HTML",
+      "issuer": "Sololearn",
+      "date": "2018-01-01",
+      "url": "https://api2.sololearn.com/v2/certificates/CT-TNJN2041/image/png",
+      "description": "Demonstrated theoretical understanding of HTML"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": [
+        "Frontend",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": [
+        "Frontend",
+        "Web Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": [
+        "Frontend",
+        "Web Development",
+        "Programming"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Web Development",
+        "Programming"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Intermediate",
+      "keywords": [
+        "PHP Framework",
+        "Backend",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "level": "Advanced",
+      "keywords": [
+        "Frontend",
+        "JavaScript Framework",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Frontend",
+        "JavaScript Library",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Programming",
+        "Desktop Applications"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Intermediate",
+      "keywords": [
+        "Java Framework",
+        "Backend",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Golang",
+      "level": "Beginner",
+      "keywords": [
+        "Backend",
+        "Programming"
+      ]
+    },
+    {
+      "name": "Communication",
+      "level": "Intermediate",
+      "keywords": [
+        "Soft Skill",
+        "Teamwork"
+      ]
+    },
+    {
+      "name": "Problem Solving",
+      "level": "Intermediate",
+      "keywords": [
+        "Soft Skill",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Intermediate",
+      "keywords": [
+        "Productivity",
+        "Office Software"
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "level": "Advanced",
+      "keywords": [
+        "IDE",
+        "Code Editor"
+      ]
+    },
+    {
+      "name": "Photoshop",
+      "level": "Beginner",
+      "keywords": [
+        "Image Editing",
+        "Graphic Design"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Indonesian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Passive"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Web Pemesanan Booking Ticket Movie",
+      "description": "Developed a movie ticket booking application using Vue JS 2, Vuetify, and MongoDB",
+      "highlights": [
+        "Used Vue JS 2 for front-end development",
+        "Implemented Vuetify for UI components",
+        "Integrated MongoDB as the database"
+      ],
+      "keywords": [
+        "Vue.js",
+        "Vuetify",
+        "MongoDB",
+        "Web Development"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31",
+      "url": "",
+      "roles": [
+        "Full-stack Developer"
+      ],
+      "entity": "",
+      "type": "application"
+    },
+    {
+      "name": "Web Zero Waste Massive",
+      "description": "Developed and created an API for a Service Ordering Application for Cleaning Service Personnel, using React and Express",
+      "highlights": [
+        "Developed API using Express",
+        "Implemented front-end using React",
+        "Created service ordering system for cleaning personnel"
+      ],
+      "keywords": [
+        "React",
+        "Express",
+        "API Development",
+        "Web Development"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31",
+      "url": "",
+      "roles": [
+        "Full-stack Developer"
+      ],
+      "entity": "",
+      "type": "application"
+    },
+    {
+      "name": "Sistem Pendukung Keputusan Kayawan Terbaik Menggunakan Metode SAW",
+      "description": "Created a Decision Support System Application using the SAW Method using Java programming language and MySQL to assist users in decision making in selecting the best employees",
+      "highlights": [
+        "Implemented SAW (Simple Additive Weighting) method",
+        "Used Java for application development",
+        "Integrated MySQL for data storage"
+      ],
+      "keywords": [
+        "Java",
+        "MySQL",
+        "Decision Support System",
+        "SAW Method"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31",
+      "url": "",
+      "roles": [
+        "Java Developer"
+      ],
+      "entity": "",
+      "type": "application"
+    }
+  ]
+}
